@@ -1,2 +1,2 @@
 # todoMVC-angular
-angular
+An example of todoMVC, use angular.
